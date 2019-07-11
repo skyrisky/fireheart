@@ -2600,6 +2600,20 @@ body {
 .cid-rv75buDw1R .img-text {
   color: #c1c1c1;
 }
+.cid-rvXD71mWMy {
+  background: #ff7f9f;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #ff7f9f, #ffffff);
+}
+.cid-rvXD71mWMy .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rvXD71mWMy .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rv75jPPlp5 {
   padding-top: 30px;
   padding-bottom: 30px;
